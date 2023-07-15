@@ -9,5 +9,6 @@ if __name__ == "__main__":
     data = check()
     if data != False:
         send_line(access_token, data)
+        print("更新されていました")
     else:
-        pass
+        print("更新されていませんでした。")
