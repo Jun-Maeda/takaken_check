@@ -4,9 +4,9 @@ name: chat_bot
 
 # Controls when the workflow will run
 on:
-#   push
-  schedule:
-    - cron: '0 */3 * * *'
+   push
+#  schedule:
+#    - cron: '0 */3 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -43,6 +43,6 @@ jobs:
           git config --local user.name "Jun-Maeda"
       - name: Commit files
         run: |
-          git add .
+          git add old_elem.txt
           git commit -m "Add Text" -a
           git push origin main
