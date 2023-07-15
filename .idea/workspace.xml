@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f55af384-bc4d-4cde-b364-95b11755d155" name="変更" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_elem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old_elem.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2SboG00BkqT5B5RnQPz0hRvVsJQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -90,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689424541801</updated>
       <workItem from="1689424544497" duration="3046000" />
-      <workItem from="1689428052383" duration="4090000" />
+      <workItem from="1689428052383" duration="4802000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1689426416584</created>
@@ -176,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689432030186</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="first commit">
+      <created>1689432179968</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689432179969</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
