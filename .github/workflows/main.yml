@@ -46,5 +46,3 @@ jobs:
           git add old_elem.txt
           git commit -m "Add Text" -a
           git push origin main
-          Jun-Maeda
-          Pure2juntan
