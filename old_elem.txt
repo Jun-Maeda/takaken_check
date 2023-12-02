@@ -1,1 +1,1 @@
-AMD EPYC Serverの自作見積り
+インフラCI実践ガイドの実践-CentOSセットアップ
