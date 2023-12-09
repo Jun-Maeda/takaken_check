@@ -1,1 +1,1 @@
-脱毛事情
+dynabookでエラー「Boot failure～」が出たので対応した
