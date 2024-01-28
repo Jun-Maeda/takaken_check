@@ -10,9 +10,9 @@ def check():
     old_file = "old_elem.txt"
 
     # 今回取り込んだ情報を取り出す
-    # new_elem = str(soup.select(".title")
-    #                [0].select(".info")[0].get_text().split("クチコミ")[0].splitlines()[1])
-    new_elem = str(soup.select(".theme-doc-markdown")[0].select("a")[1].get_text())
+    new_elem = str(soup.select(".articles")
+                   [0].select(".mrow")[0].select(".mcol")[0].select(".title")[0].get_text())
+    # new_elem = str(soup.select(".theme-doc-markdown")[0].select("a")[1].get_text())
 
     # 前回のデータを取り込む
     try:
